@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alanabel322" alt="alanabel322" /></a> </p>
  
--  💼  Portfolio deployado con vercel --> portafolioalanpereyra.vercel.app
+-  💼  Portfolio deployed with vercel --> portafolioalanpereyra.vercel.app
  
 - 🔭 I’m currently working on [PI-Countries (Henry-Bootcamp)](https://github.com/ALANABEL322/PI-Countries)
 
